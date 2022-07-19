@@ -1,0 +1,204 @@
+.header{
+    width: 100%;
+    height: 72px;
+    background: #252e39;
+    display: flex;
+    position: fixed;
+}
+body{
+    margin: 0;
+}
+.left-header{
+    width: 50%;
+    color: rgba(242,244,246,.9);
+    padding: 14px 48px 14px 20px;
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+}
+.header-list{
+    font-family:'Roboto', sans-serif ;
+    color: white;
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.right-header{
+    width: 50%;
+    background: #252e39;
+}
+.header-icon{
+    height: 35px;
+    width: 113px;
+    margin-left: 7%;
+    margin-top: 3%;
+
+    float: left;
+    cursor: pointer;
+}
+.search-icon{
+    margin-left: 25px;
+    margin-top: 22px;
+    cursor: pointer;
+}
+.globe-icon{
+    margin-left: 60px;
+    cursor: pointer;
+}
+.user-icon{
+    margin-left: 60px;
+    cursor: pointer;
+}
+.header-button{
+    margin-left: 250px;
+    height: 35px;
+    width: 130px;
+    background-color: #2c99d0;
+    border: #2c99d0;
+    cursor: pointer;
+    border-radius: 3px;
+    border-style: solid;
+    color: rgb(242, 244,246,.9);
+    font-size: 17px;
+    margin-top: 20px;
+
+}
+.box1{
+    height: 420px;
+    width: 100%;
+    background-image:linear-gradient(to right,black 40%,transparent 76%),url("Images/MLP (1).jpg") ;
+}
+.text1{
+    padding-left: 6%;
+    padding-top: 6%;
+    font-family: 'Roboto',sans-serif;
+    font-size: 23px;
+    color: white;
+}
+h2{
+    padding-left: 6%;
+    font-family: 'Roboto',sans-serif;
+    color: white;
+}
+.box1-button{
+    background-color: #2c99d0;
+    color: white;
+    border-radius: 3px;
+    border-color: #2c99d0;
+    border-style: solid;
+    margin-left: 6%;
+    height: 50px;
+    width: 280px;
+    font-size: 17px;
+    cursor: pointer;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    padding-left: 123px;
+    color: white;
+}
+.box2{
+    height: 420px;
+    width: 100%;
+    background-image: linear-gradient(to right,black 40%,transparent 76%),url("Images/Prime-Video---1440-x-675-New._CB633786824_ (1).jpg");
+}
+.text2{
+    padding-left: 6%;
+    padding-top: 6%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+h3{
+    color: white;
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    margin-left: 70px;
+}
+.box3{
+    width: 100%;
+    height: 520px;
+    background-image: url(Images/MLP_Template_Image_Left.jpg);
+}
+.text3{
+    padding-left: 60%;
+    padding-top: 5%;
+    font-family: 'Open Sans', sans-serif;
+    font-size:20px ;
+    color: white;
+
+}
+h4{
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+.box3-button{
+    background-color: #2c99d0;
+    color: white;
+    border-radius: 3px;
+    border-color: #2c99d0;
+    border-style: solid;
+    height: 50px;
+    width: 280px;
+    font-size: 17px;
+    cursor: pointer;
+
+}
+.box4{
+    width: 100%;
+    height: 500px;
+    background-image: url(Images/IN-kids-30Jan._CB1517304519_.jpg);
+}
+.text4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding-left: 65px;
+    padding-top: 40px;
+    color: white;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background: #232121;
+}
+.footer-icon{
+    padding-left: 45%;
+    padding-top: 2%;
+}
+.ul-footer{
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    color: #0f79af;
+    font-size: 15px;
+    padding-left: 320px;
+}
+.text5{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.text6{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.text7{
+    
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.text8{
+    font-size: 15px;
+    color: gray;
+    
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+li{
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
